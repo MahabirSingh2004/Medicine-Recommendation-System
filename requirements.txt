@@ -1,0 +1,13 @@
+streamlit – for creating the web interface
+
+pandas – for handling datasets
+
+numpy – for numerical operations
+
+joblib – to load the machine learning model
+
+scikit-learn – to train the SVC model
+
+ast – to safely convert string data to lists
+
+matplotlib or seaborn (optional, for data visualization during training)
